@@ -12,9 +12,12 @@
 
 <br/>
 <details style="font-size: 30px">
-  <summary>:zap: Info's:</summary>
-  🔭 Desenvolvendo Projetos em Java<br>
-  🌱 Atualmente Estudando Java
+  <summary>Info's:</summary>
+  🔭 Desenvolvendo em: <br> 
+    Java <br>
+  🌱 Atualmente Estudando: <br> 
+    Java <br> 
+    Spring 
 </details>
   
 ### Languages and Tools:
