@@ -1,21 +1,23 @@
-## Oi! Sou Kildere, Estudante de TI e programador!
-
 <div align="center">
+<h2>Olá visitante!<br>Sou Kildere, Estudante de TI e programador!</h2>
+
+<div>
   <a href="https://github.com/Kirudea">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <br>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div><br>
-
-<details style="font-size: 30px">
+</div>
+  
+<br>
+<details>
   <summary>:zap: Info's:</summary>
   <ul>
     <li>🔭 Desenvolvendo Projetos em Java</li>
     <li>🌱 Atualmente Estudando Java</li>
   </ul>
 </details>
-  
+
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="Kirudea-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,7 +38,7 @@
 </div>
 
 ![Snake animation](https://github.com/Kirudea/Kirudea/blob/output/github-contribution-grid-snake.svg)
-  
+</div><br>
 <!--  
 **Kirudea/Kirudea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
