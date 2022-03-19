@@ -1,4 +1,4 @@
-## Oi, sou Kildere Estudante de TI e Programador!
+## Oi! Sou Kildere, Estudante de TI e programador!
 
 <div align="center">
   <a href="https://github.com/Kirudea">
