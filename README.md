@@ -4,7 +4,7 @@
   <a href="https://github.com/Kirudea">
   <img height="" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div><br><br><br>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kirudea-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
