@@ -5,11 +5,11 @@
 
 <div align="center">
   <a href="https://github.com/Kirudea">
-  <img height="" width="60%" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <br>
-  <img height="" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
 </div><br>
-  
+
 ### Languages and Tools:
 <div style="display: inline_block">
   <img align="center" alt="Kirudea-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -26,10 +26,10 @@
   <a href="https://gitlab.com/Kirudea" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-FFF?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="mailto:kilderehenriquedp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-555?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-  
+
+<!--  
 ![Snake animation](https://github.com/Kirudea/Kirudea/blob/output/github-contribution-grid-snake.svg)
 
-<!--
 **Kirudea/Kirudea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
