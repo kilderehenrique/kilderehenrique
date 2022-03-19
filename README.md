@@ -1,7 +1,9 @@
 ## Oi, sou Kildere Estudante de TI e Programador!
 
+<!--
 - 🔭 Desenvolvendo Projetos em Java
 - 🌱 Atualmente Estudando Java
+-->
 
 <div align="center">
   <a href="https://github.com/Kirudea">
