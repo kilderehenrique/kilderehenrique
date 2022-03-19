@@ -1,6 +1,4 @@
 <div align="center">
-<h2>Olá visitante!<br>Sou Kildere, Estudante de TI e programador!</h2>
-
 <div>
   <a href="https://github.com/Kirudea">
     <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
