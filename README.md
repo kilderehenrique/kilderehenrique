@@ -10,10 +10,9 @@
 <br>
 <details>
   <summary>:zap: Info's:</summary>
-  <ul>
-    <li>🔭 Desenvolvendo Projetos em Java</li>
-    <li>🌱 Atualmente Estudando Java</li>
-  </ul>
+  
+  🔭 Desenvolvendo Projetos em Java<br>
+  🌱 Atualmente Estudando Java
 </details>
 
 ### Languages and Tools:
