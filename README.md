@@ -5,6 +5,14 @@
 - 🌱 Atualmente Estudando Java
 -->
 
+<details>
+  <summary>:zap: Infos:</summary>
+  <ul>
+    <li>🔭 Desenvolvendo Projetos em Java</li>
+    <li>🌱 Atualmente Estudando Java</li>
+  </ul>
+</details>
+
 <div align="center">
   <a href="https://github.com/Kirudea">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
