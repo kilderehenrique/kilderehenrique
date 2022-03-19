@@ -1,13 +1,11 @@
 ## Oi, sou Kildere Estudante de TI e Programador!
 
-<!--
 <br><br>
-<div align="center" style="background-color: grey;">
+<div align="center">
   <a href="https://github.com/Kirudea">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kirudea&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirudea&layout=compact&langs_count=7&theme=dracula"/>
 </div><br><br>
--->
 
 <div style="display: inline_block">
   <img align="center" alt="Kirudea-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
