@@ -37,7 +37,7 @@
   <a href="https://gitlab.com/Kirudea" target="_blank"><img src="https://img.shields.io/badge/-Gitlab-FFF?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
   <a href="mailto:kilderehenriquedp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
-
+<!--
 ![Snake animation](https://github.com/Kirudea/Kirudea/blob/output/github-contribution-grid-snake.svg)
-  
+-->
 </div>
