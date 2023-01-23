@@ -18,15 +18,20 @@
     Spring 
 </details>
   
-### Languages and Tools:
+### Languages:
 <div style="display: inline_block">
-  <img align="center" alt="Kirudea-Java" height="33" width="33" src="https://github.com/Kirudea/Kirudea/blob/main/Images/java_logo.png">
+  <img align="center" alt="Kir6dea-Java" height="33" width="33" src="Images/java_logo.png">
   <img align="center" alt="Kirudea-Python" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kirudea-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kirudea-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kirudea-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kirudea-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Kirudea-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+### Tools:
+<div style="display: inline_block">
+  <img align="center" alt="Kirudea-Spring" height="37" width="36" src="Images/spring_framework_logo.png">
+  <img align="center" alt="Kirudea-DJango" height="37" width="37" src="Images/django_logo.png">
+  <img align="center" alt="Kirudea-ReactJS" src="https://icongr.am/devicon/react-original.svg?size=35&color=currentColor">
 </div>
   
 <!--Linha divisória-->
